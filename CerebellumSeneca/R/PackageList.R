@@ -1,0 +1,44 @@
+if(!require(readr)){
+  install.packages("readr")
+}
+if(!require(dplyr)){
+  install.packages("dplyr")
+}
+if(!require(magrittr)){
+  install.packages("magrittr")
+}
+if(!require(data.tree)){
+  install.packages("data.tree")
+}
+if(!require(reshape2)){
+  install.packages("reshape2")
+}
+if(!require(jsonlite)){
+  install.packages("jsonlite")
+}
+if(!require(here)){
+  install.packages("here")
+}
+if(!require(grid)){
+  install.packages("grid")
+}
+if(!require(cowplot)){
+  install.packages("cowplot")
+}
+if(!require(ggplot2)){
+  install.packages("ggplot2")
+}
+if(!require(Cairo)){
+  install.packages("Cairo")
+}
+if(!require(rsvg)){
+  install.packages("rsvg")
+}
+if(!require(XML)){
+  install.packages("XML")
+}
+if(!require(viridis)){
+  install.packages("viridis")
+}
+
+
