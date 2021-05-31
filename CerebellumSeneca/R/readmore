@@ -1,5 +1,0 @@
-Files uploaded :
-App.R         (R Shiny Application)
-test*.R       (Files used in the R Shiny App, We didnt want to mess with the original)
-              (testLegend and testAllenHBA_SVG are in 2 seperate files due to complications with plotting the data in R and this made it easier, will have to work on it to make it a more efficient process)
-PackageList.R (easy package install of librarys that are not installed)
